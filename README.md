@@ -1,16 +1,16 @@
 S2Inet is a python tool Transformer-based Sequence-to-Image Network for Accurate Nanopore Sequence Recognition
 
-Prerequesites:
+**Prerequesites:**
 
 python 3.5+
 
 pytorch 1.0
 
-Running S2Inet:
+**Running S2Inet:**
 
-$ python training.py
+'$ python training.py'
 
-File Description:
+**File Description:**
 
 1.The train_data.zip file contains the training dataset and validation dataset of the RNA classification data dataset used in the paper.
 
