@@ -8,7 +8,7 @@ pytorch 1.0
 
 **Running S2Inet:**
 
-'$ python training.py'
+`$ python training.py`
 
 **File Description:**
 
